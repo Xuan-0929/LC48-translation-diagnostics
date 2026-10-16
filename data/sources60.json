@@ -1,0 +1,578 @@
+[
+  {
+    "source_id": "LC01-cell-i0-a0",
+    "source_text": "那个生物细胞正在复制DNA；那节干电池正在输出一点五伏电压。",
+    "source_sha256": "78199af5fa6d85c56b0e2a498f1232b00418cef4ea62256cd8079a2b40bb464d",
+    "family_id": "cell",
+    "structural_kind": "two_entity",
+    "designer_intended_role": "ordinary_candidate",
+    "semantic_scenario_id": "cell-same"
+  },
+  {
+    "source_id": "LC01-cell-i0-a0-NUM-Arabic_digits",
+    "source_text": "那个生物细胞正在复制DNA；那节干电池正在输出1.5伏电压。",
+    "source_sha256": "3531c00d16f067fb909bd4028cac4ba323602b808385fbe07bd3298d46062535",
+    "original_source_id": "LC01-cell-i0-a0",
+    "numeral_form": "Arabic_digits",
+    "family_id": "cell",
+    "structural_kind": "two_entity",
+    "designer_intended_role": "ordinary_candidate",
+    "semantic_scenario_id": "cell-same",
+    "derivation": "Programmatic numeral-form variant of a constructed source; no new human source qualification implied."
+  },
+  {
+    "source_id": "LC01-cell-i0-a0-NUM-Chinese_words",
+    "source_text": "那个生物细胞正在复制DNA；那节干电池正在输出一点五伏电压。",
+    "source_sha256": "78199af5fa6d85c56b0e2a498f1232b00418cef4ea62256cd8079a2b40bb464d",
+    "original_source_id": "LC01-cell-i0-a0",
+    "numeral_form": "Chinese_words",
+    "family_id": "cell",
+    "structural_kind": "two_entity",
+    "designer_intended_role": "ordinary_candidate",
+    "semantic_scenario_id": "cell-same",
+    "derivation": "Programmatic numeral-form variant of a constructed source; no new human source qualification implied."
+  },
+  {
+    "source_id": "LC01-cell-i0-a1",
+    "source_text": "那个生物细胞正在输出一点五伏电压；那节干电池正在复制DNA。",
+    "source_sha256": "4d7848d4fed5e2c1e472eea82c786d564ba61f7d09431ed694016a543e966702",
+    "family_id": "cell",
+    "structural_kind": "two_entity",
+    "designer_intended_role": "atypical_candidate",
+    "semantic_scenario_id": "cell-cross"
+  },
+  {
+    "source_id": "LC01-cell-i0-a1-NUM-Arabic_digits",
+    "source_text": "那个生物细胞正在输出1.5伏电压；那节干电池正在复制DNA。",
+    "source_sha256": "440a9debce1fe530602c4992ca679a6a6961615c6eac041eb5cf4a3516ff3b26",
+    "original_source_id": "LC01-cell-i0-a1",
+    "numeral_form": "Arabic_digits",
+    "family_id": "cell",
+    "structural_kind": "two_entity",
+    "designer_intended_role": "atypical_candidate",
+    "semantic_scenario_id": "cell-cross",
+    "derivation": "Programmatic numeral-form variant of a constructed source; no new human source qualification implied."
+  },
+  {
+    "source_id": "LC01-cell-i0-a1-NUM-Chinese_words",
+    "source_text": "那个生物细胞正在输出一点五伏电压；那节干电池正在复制DNA。",
+    "source_sha256": "4d7848d4fed5e2c1e472eea82c786d564ba61f7d09431ed694016a543e966702",
+    "original_source_id": "LC01-cell-i0-a1",
+    "numeral_form": "Chinese_words",
+    "family_id": "cell",
+    "structural_kind": "two_entity",
+    "designer_intended_role": "atypical_candidate",
+    "semantic_scenario_id": "cell-cross",
+    "derivation": "Programmatic numeral-form variant of a constructed source; no new human source qualification implied."
+  },
+  {
+    "source_id": "LC01-cell-i1-a0",
+    "source_text": "那节干电池正在复制DNA；那个生物细胞正在输出一点五伏电压。",
+    "source_sha256": "1106f3700d612ce0f4bdf9e2d29a72399a160448b93a69537de1e9cdd390ff1d",
+    "family_id": "cell",
+    "structural_kind": "two_entity",
+    "designer_intended_role": "atypical_candidate",
+    "semantic_scenario_id": "cell-cross"
+  },
+  {
+    "source_id": "LC01-cell-i1-a0-NUM-Arabic_digits",
+    "source_text": "那节干电池正在复制DNA；那个生物细胞正在输出1.5伏电压。",
+    "source_sha256": "2ecf99171a288c0bb987b79782286965d782a6a58ccd0c6cc8b77f1d04b30883",
+    "original_source_id": "LC01-cell-i1-a0",
+    "numeral_form": "Arabic_digits",
+    "family_id": "cell",
+    "structural_kind": "two_entity",
+    "designer_intended_role": "atypical_candidate",
+    "semantic_scenario_id": "cell-cross",
+    "derivation": "Programmatic numeral-form variant of a constructed source; no new human source qualification implied."
+  },
+  {
+    "source_id": "LC01-cell-i1-a0-NUM-Chinese_words",
+    "source_text": "那节干电池正在复制DNA；那个生物细胞正在输出一点五伏电压。",
+    "source_sha256": "1106f3700d612ce0f4bdf9e2d29a72399a160448b93a69537de1e9cdd390ff1d",
+    "original_source_id": "LC01-cell-i1-a0",
+    "numeral_form": "Chinese_words",
+    "family_id": "cell",
+    "structural_kind": "two_entity",
+    "designer_intended_role": "atypical_candidate",
+    "semantic_scenario_id": "cell-cross",
+    "derivation": "Programmatic numeral-form variant of a constructed source; no new human source qualification implied."
+  },
+  {
+    "source_id": "LC01-cell-i1-a1",
+    "source_text": "那节干电池正在输出一点五伏电压；那个生物细胞正在复制DNA。",
+    "source_sha256": "99e0dd34bf9be2b6988b36f5026943ce23aadea947671d0f3ea19054be346fb1",
+    "family_id": "cell",
+    "structural_kind": "two_entity",
+    "designer_intended_role": "ordinary_candidate",
+    "semantic_scenario_id": "cell-same"
+  },
+  {
+    "source_id": "LC01-cell-i1-a1-NUM-Arabic_digits",
+    "source_text": "那节干电池正在输出1.5伏电压；那个生物细胞正在复制DNA。",
+    "source_sha256": "e13b760808d0c326801b75b74ea2d98d4a1fb597a09eff79302d4c87cd2de452",
+    "original_source_id": "LC01-cell-i1-a1",
+    "numeral_form": "Arabic_digits",
+    "family_id": "cell",
+    "structural_kind": "two_entity",
+    "designer_intended_role": "ordinary_candidate",
+    "semantic_scenario_id": "cell-same",
+    "derivation": "Programmatic numeral-form variant of a constructed source; no new human source qualification implied."
+  },
+  {
+    "source_id": "LC01-cell-i1-a1-NUM-Chinese_words",
+    "source_text": "那节干电池正在输出一点五伏电压；那个生物细胞正在复制DNA。",
+    "source_sha256": "99e0dd34bf9be2b6988b36f5026943ce23aadea947671d0f3ea19054be346fb1",
+    "original_source_id": "LC01-cell-i1-a1",
+    "numeral_form": "Chinese_words",
+    "family_id": "cell",
+    "structural_kind": "two_entity",
+    "designer_intended_role": "ordinary_candidate",
+    "semantic_scenario_id": "cell-same",
+    "derivation": "Programmatic numeral-form variant of a constructed source; no new human source qualification implied."
+  },
+  {
+    "source_id": "LC01-club-i0-a0",
+    "source_text": "那根高尔夫球杆末端有一个金属杆头；那家夜总会内部有一个舞池。",
+    "source_sha256": "9f2a7e5552c5f16e6caff700275138c03354354be965f2d648aa73afecb50824",
+    "family_id": "club",
+    "structural_kind": "two_entity",
+    "designer_intended_role": "ordinary_candidate",
+    "semantic_scenario_id": "club-same"
+  },
+  {
+    "source_id": "LC01-club-i0-a1",
+    "source_text": "那根高尔夫球杆内部有一个舞池；那家夜总会末端有一个金属杆头。",
+    "source_sha256": "4a39035fca5655825ed7f88ab8f5d91565e69bc67aee94fbd53e1cf3b2117348",
+    "family_id": "club",
+    "structural_kind": "two_entity",
+    "designer_intended_role": "atypical_candidate",
+    "semantic_scenario_id": "club-cross"
+  },
+  {
+    "source_id": "LC01-club-i1-a0",
+    "source_text": "那家夜总会末端有一个金属杆头；那根高尔夫球杆内部有一个舞池。",
+    "source_sha256": "5e703a95f954d66a2bd6383872376412e3a725cfb82f1c4770112d634528e1ed",
+    "family_id": "club",
+    "structural_kind": "two_entity",
+    "designer_intended_role": "atypical_candidate",
+    "semantic_scenario_id": "club-cross"
+  },
+  {
+    "source_id": "LC01-club-i1-a1",
+    "source_text": "那家夜总会内部有一个舞池；那根高尔夫球杆末端有一个金属杆头。",
+    "source_sha256": "966318b3d1e9f6414225f68453a67aa32ad6bd1d7f22168e3280917acb8af3ae",
+    "family_id": "club",
+    "structural_kind": "two_entity",
+    "designer_intended_role": "ordinary_candidate",
+    "semantic_scenario_id": "club-same"
+  },
+  {
+    "source_id": "LC01-coach-i0-a0",
+    "source_text": "那位足球教练身穿一件运动服。",
+    "source_sha256": "fb5ab5e47325b76c5ca1006de647a1cacb22184c49e0735b315528f225b4182d",
+    "family_id": "coach",
+    "structural_kind": "attribute",
+    "designer_intended_role": "ordinary_candidate",
+    "semantic_scenario_id": "coach-i0-a0"
+  },
+  {
+    "source_id": "LC01-coach-i0-a1",
+    "source_text": "那位足球教练底部装有六个车轮。",
+    "source_sha256": "b62278e9976fc16af041d84f2c57fd80c169dd6e5d68c0a3ff745d63bb163c38",
+    "family_id": "coach",
+    "structural_kind": "attribute",
+    "designer_intended_role": "atypical_candidate",
+    "semantic_scenario_id": "coach-i0-a1"
+  },
+  {
+    "source_id": "LC01-coach-i1-a0",
+    "source_text": "那辆长途客车身穿一件运动服。",
+    "source_sha256": "e9e1d78924a7654d3bc59a0bfa11e4f1c90a9ea5367cc44b167ea86e7824de39",
+    "family_id": "coach",
+    "structural_kind": "attribute",
+    "designer_intended_role": "atypical_candidate",
+    "semantic_scenario_id": "coach-i1-a0"
+  },
+  {
+    "source_id": "LC01-coach-i1-a1",
+    "source_text": "那辆长途客车底部装有六个车轮。",
+    "source_sha256": "c236fe70271154177e2ba9f6488fb00f32591903ed4e48363a792fb277db89f1",
+    "family_id": "coach",
+    "structural_kind": "attribute",
+    "designer_intended_role": "ordinary_candidate",
+    "semantic_scenario_id": "coach-i1-a1"
+  },
+  {
+    "source_id": "LC01-crane-i0-a0",
+    "source_text": "那只鹤正在梳理翅膀上的羽毛。",
+    "source_sha256": "6bb73c55d0ce8836948081d3fe829ab58c5bdd3404fbbf5c45c0a55596deb363",
+    "family_id": "crane",
+    "structural_kind": "event",
+    "designer_intended_role": "ordinary_candidate",
+    "semantic_scenario_id": "crane-i0-a0"
+  },
+  {
+    "source_id": "LC01-crane-i0-a1",
+    "source_text": "那只鹤正在把一根钢梁吊到屋顶。",
+    "source_sha256": "8fad202b16a59b31ec504da50d5ef8b12078e54951c3e44be435651c4bb48a4c",
+    "family_id": "crane",
+    "structural_kind": "event",
+    "designer_intended_role": "atypical_candidate",
+    "semantic_scenario_id": "crane-i0-a1"
+  },
+  {
+    "source_id": "LC01-crane-i1-a0",
+    "source_text": "那台建筑起重机正在梳理翅膀上的羽毛。",
+    "source_sha256": "7b514e6e36e2e0946cefa6be3ba68ed7f7fea6a7b70c0e32500d0715f1137765",
+    "family_id": "crane",
+    "structural_kind": "event",
+    "designer_intended_role": "atypical_candidate",
+    "semantic_scenario_id": "crane-i1-a0"
+  },
+  {
+    "source_id": "LC01-crane-i1-a1",
+    "source_text": "那台建筑起重机正在把一根钢梁吊到屋顶。",
+    "source_sha256": "bc8bc65ecb5130d657d43a9f9796f39eb1f0baee89e5e719598256c2a2261554",
+    "family_id": "crane",
+    "structural_kind": "event",
+    "designer_intended_role": "ordinary_candidate",
+    "semantic_scenario_id": "crane-i1-a1"
+  },
+  {
+    "source_id": "LC01-fan-i0-a0",
+    "source_text": "那位足球球迷正在为球队大声欢呼。",
+    "source_sha256": "250b53a6cf60c1eaab6a3030dcf8649be9310354a135d205f7b644b6f5190988",
+    "family_id": "fan",
+    "structural_kind": "event",
+    "designer_intended_role": "ordinary_candidate",
+    "semantic_scenario_id": "fan-i0-a0"
+  },
+  {
+    "source_id": "LC01-fan-i0-a1",
+    "source_text": "那位足球球迷正在转动三片扇叶。",
+    "source_sha256": "c7e82dc117e515f336579d6cc8986a1b165164131808b343e5d5376cd1b022f8",
+    "family_id": "fan",
+    "structural_kind": "event",
+    "designer_intended_role": "atypical_candidate",
+    "semantic_scenario_id": "fan-i0-a1"
+  },
+  {
+    "source_id": "LC01-fan-i1-a0",
+    "source_text": "那台电风扇正在为球队大声欢呼。",
+    "source_sha256": "1de0f0f0811c67306ec78b20fece524ba4bfbbf276cd51b76798b663b50631f2",
+    "family_id": "fan",
+    "structural_kind": "event",
+    "designer_intended_role": "atypical_candidate",
+    "semantic_scenario_id": "fan-i1-a0"
+  },
+  {
+    "source_id": "LC01-fan-i1-a1",
+    "source_text": "那台电风扇正在转动三片扇叶。",
+    "source_sha256": "99c5a6b39dc609ad56a0ef2ee3a5797a79d3a822ddb2858f8c6fa0f24f356ab0",
+    "family_id": "fan",
+    "structural_kind": "event",
+    "designer_intended_role": "ordinary_candidate",
+    "semantic_scenario_id": "fan-i1-a1"
+  },
+  {
+    "source_id": "LC01-file-i0-a0",
+    "source_text": "那份档案文件记录着三个人的姓名；那把金属锉刀表面有许多细齿。",
+    "source_sha256": "049147b8a3537d519d3a7084096ab10590816c5b7e3712eb8b393589e4755836",
+    "family_id": "file",
+    "structural_kind": "two_entity",
+    "designer_intended_role": "ordinary_candidate",
+    "semantic_scenario_id": "file-same"
+  },
+  {
+    "source_id": "LC01-file-i0-a1",
+    "source_text": "那份档案文件表面有许多细齿；那把金属锉刀记录着三个人的姓名。",
+    "source_sha256": "53fe0e74d5c435e9d4adfcf4e2cd26fe0336d88949cc1a7759550303be0587a6",
+    "family_id": "file",
+    "structural_kind": "two_entity",
+    "designer_intended_role": "atypical_candidate",
+    "semantic_scenario_id": "file-cross"
+  },
+  {
+    "source_id": "LC01-file-i1-a0",
+    "source_text": "那把金属锉刀记录着三个人的姓名；那份档案文件表面有许多细齿。",
+    "source_sha256": "cc0447ad16e80c9a51430de70567fb2e63bd1d4ff754794365b902aebac58efa",
+    "family_id": "file",
+    "structural_kind": "two_entity",
+    "designer_intended_role": "atypical_candidate",
+    "semantic_scenario_id": "file-cross"
+  },
+  {
+    "source_id": "LC01-file-i1-a1",
+    "source_text": "那把金属锉刀表面有许多细齿；那份档案文件记录着三个人的姓名。",
+    "source_sha256": "e1e7d4841f13f0df1818e0f00fce461f2754d0df31f6304265a68cd84c272848",
+    "family_id": "file",
+    "structural_kind": "two_entity",
+    "designer_intended_role": "ordinary_candidate",
+    "semantic_scenario_id": "file-same"
+  },
+  {
+    "source_id": "LC01-key-i0-a0",
+    "source_text": "那把门锁钥匙的边缘有五个锯齿。",
+    "source_sha256": "31a2f13fff7a3cc92df7a7f253bc32e243c2c0b05557f2dc44d388ee4ae18142",
+    "family_id": "key",
+    "structural_kind": "attribute",
+    "designer_intended_role": "ordinary_candidate",
+    "semantic_scenario_id": "key-i0-a0"
+  },
+  {
+    "source_id": "LC01-key-i0-a1",
+    "source_text": "那把门锁钥匙按下后会发出一个音。",
+    "source_sha256": "8114a26f10aaccbc42d4d892a22ec1a388a282b9797ac0e9e90435140ec57992",
+    "family_id": "key",
+    "structural_kind": "attribute",
+    "designer_intended_role": "atypical_candidate",
+    "semantic_scenario_id": "key-i0-a1"
+  },
+  {
+    "source_id": "LC01-key-i1-a0",
+    "source_text": "那个钢琴琴键的边缘有五个锯齿。",
+    "source_sha256": "bfe2aaeffad8e6e4fdfcfe4699e68d91a9566599ea0a9ade79174c7d65706ea6",
+    "family_id": "key",
+    "structural_kind": "attribute",
+    "designer_intended_role": "atypical_candidate",
+    "semantic_scenario_id": "key-i1-a0"
+  },
+  {
+    "source_id": "LC01-key-i1-a1",
+    "source_text": "那个钢琴琴键按下后会发出一个音。",
+    "source_sha256": "1c1aeb3fa2c9ac3c28de6d7d81eea6be1eeef18a39802665f5bc8aabb059a41e",
+    "family_id": "key",
+    "structural_kind": "attribute",
+    "designer_intended_role": "ordinary_candidate",
+    "semantic_scenario_id": "key-i1-a1"
+  },
+  {
+    "source_id": "LC01-mint-i0-a0",
+    "source_text": "那株薄荷正在长出四片新叶。",
+    "source_sha256": "609f4c461a13a40e6d8bdca13c119b6326fb82600a21516ffdfffbae49f8b3f1",
+    "family_id": "mint",
+    "structural_kind": "event",
+    "designer_intended_role": "ordinary_candidate",
+    "semantic_scenario_id": "mint-i0-a0"
+  },
+  {
+    "source_id": "LC01-mint-i0-a1",
+    "source_text": "那株薄荷正在铸造五枚硬币。",
+    "source_sha256": "b94488757180d351645c7140d607f2550ac5450fd960545a66f3b04f54ef9cdc",
+    "family_id": "mint",
+    "structural_kind": "event",
+    "designer_intended_role": "atypical_candidate",
+    "semantic_scenario_id": "mint-i0-a1"
+  },
+  {
+    "source_id": "LC01-mint-i1-a0",
+    "source_text": "那座造币厂正在长出四片新叶。",
+    "source_sha256": "3ba808339df122037b2aa36a57435cd0c228b1b3d3b54dade400993dcd470f91",
+    "family_id": "mint",
+    "structural_kind": "event",
+    "designer_intended_role": "atypical_candidate",
+    "semantic_scenario_id": "mint-i1-a0"
+  },
+  {
+    "source_id": "LC01-mint-i1-a1",
+    "source_text": "那座造币厂正在铸造五枚硬币。",
+    "source_sha256": "30379cfa6df0df59f413beedd599ef703cde2329ac983c6b0f59ad788010fdfa",
+    "family_id": "mint",
+    "structural_kind": "event",
+    "designer_intended_role": "ordinary_candidate",
+    "semantic_scenario_id": "mint-i1-a1"
+  },
+  {
+    "source_id": "LC01-mouse-i0-a0",
+    "source_text": "那个电脑鼠标正在移动屏幕上的箭头；那只家鼠正在啃咬一粒玉米。",
+    "source_sha256": "a9b6f43e11d54533a2a5db5ae210df92617a4e41e9bc1d1f5aa588962e75f6d3",
+    "family_id": "mouse",
+    "structural_kind": "two_entity",
+    "designer_intended_role": "ordinary_candidate",
+    "semantic_scenario_id": "mouse-same"
+  },
+  {
+    "source_id": "LC01-mouse-i0-a1",
+    "source_text": "那个电脑鼠标正在啃咬一粒玉米；那只家鼠正在移动屏幕上的箭头。",
+    "source_sha256": "31f99bd382524ab08f9c95ffe3d76e737b561309e3ded59345a834b34c18d385",
+    "family_id": "mouse",
+    "structural_kind": "two_entity",
+    "designer_intended_role": "atypical_candidate",
+    "semantic_scenario_id": "mouse-cross"
+  },
+  {
+    "source_id": "LC01-mouse-i1-a0",
+    "source_text": "那只家鼠正在移动屏幕上的箭头；那个电脑鼠标正在啃咬一粒玉米。",
+    "source_sha256": "7d70416524d4290ccd2659d0ea015c56368a44959374b60c4d75bc9c86a0f0d7",
+    "family_id": "mouse",
+    "structural_kind": "two_entity",
+    "designer_intended_role": "atypical_candidate",
+    "semantic_scenario_id": "mouse-cross"
+  },
+  {
+    "source_id": "LC01-mouse-i1-a1",
+    "source_text": "那只家鼠正在啃咬一粒玉米；那个电脑鼠标正在移动屏幕上的箭头。",
+    "source_sha256": "0b344b5de5dfa04b8259a3ed5383dfb3be0810a3be154f595ea1c3f795ae123a",
+    "family_id": "mouse",
+    "structural_kind": "two_entity",
+    "designer_intended_role": "ordinary_candidate",
+    "semantic_scenario_id": "mouse-same"
+  },
+  {
+    "source_id": "LC01-organ-i0-a0",
+    "source_text": "那台管风琴带有两排键盘。",
+    "source_sha256": "e489734a8ea9d5b6efdc612d90aa90779196736792dacb9f2920f859ba155462",
+    "family_id": "organ",
+    "structural_kind": "attribute",
+    "designer_intended_role": "ordinary_candidate",
+    "semantic_scenario_id": "organ-i0-a0"
+  },
+  {
+    "source_id": "LC01-organ-i0-a1",
+    "source_text": "那台管风琴内部流动着血液。",
+    "source_sha256": "275e679e0c56bf735d77b71273080369686a2d53d95eef6975fc27403e09fca8",
+    "family_id": "organ",
+    "structural_kind": "attribute",
+    "designer_intended_role": "atypical_candidate",
+    "semantic_scenario_id": "organ-i0-a1"
+  },
+  {
+    "source_id": "LC01-organ-i1-a0",
+    "source_text": "那个人体器官带有两排键盘。",
+    "source_sha256": "a1df45053b671d92c9bae1557627942bd3d7674651d6d247ea9bd9846d9f8fd2",
+    "family_id": "organ",
+    "structural_kind": "attribute",
+    "designer_intended_role": "atypical_candidate",
+    "semantic_scenario_id": "organ-i1-a0"
+  },
+  {
+    "source_id": "LC01-organ-i1-a1",
+    "source_text": "那个人体器官内部流动着血液。",
+    "source_sha256": "be6e3824ab138616c8532ce2bd099253227941a3b29c761347d41bb6135dc5c3",
+    "family_id": "organ",
+    "structural_kind": "attribute",
+    "designer_intended_role": "ordinary_candidate",
+    "semantic_scenario_id": "organ-i1-a1"
+  },
+  {
+    "source_id": "LC01-pupil-i0-a0",
+    "source_text": "那个瞳孔正在随光线变化而收缩。",
+    "source_sha256": "1471c6b0038192946e6ee5548471080981dcd2d08da0f52720bbe45f988b760d",
+    "family_id": "pupil",
+    "structural_kind": "event",
+    "designer_intended_role": "ordinary_candidate",
+    "semantic_scenario_id": "pupil-i0-a0"
+  },
+  {
+    "source_id": "LC01-pupil-i0-a1",
+    "source_text": "那个瞳孔正在朗读一段课文。",
+    "source_sha256": "1be48515672410bcc4bff36f044a72fa9d165761ac257e1ae6f95e0cfa9aa190",
+    "family_id": "pupil",
+    "structural_kind": "event",
+    "designer_intended_role": "atypical_candidate",
+    "semantic_scenario_id": "pupil-i0-a1"
+  },
+  {
+    "source_id": "LC01-pupil-i1-a0",
+    "source_text": "那名小学生正在随光线变化而收缩。",
+    "source_sha256": "5f9c12261dabf8a3a179f56b7b2031913e89aee10424ae777b12d4e3a14e6c98",
+    "family_id": "pupil",
+    "structural_kind": "event",
+    "designer_intended_role": "atypical_candidate",
+    "semantic_scenario_id": "pupil-i1-a0"
+  },
+  {
+    "source_id": "LC01-pupil-i1-a1",
+    "source_text": "那名小学生正在朗读一段课文。",
+    "source_sha256": "e427b01f04621870db362baec760741847f58473212528dded60ccc8461e0687",
+    "family_id": "pupil",
+    "structural_kind": "event",
+    "designer_intended_role": "ordinary_candidate",
+    "semantic_scenario_id": "pupil-i1-a1"
+  },
+  {
+    "source_id": "LC01-tablet-i0-a0",
+    "source_text": "那台平板电脑配有一块触摸屏。",
+    "source_sha256": "dc5bb8a6cce4452ac3d1e0c8a179033e67ecaf67d08ccba8ac722723798729b1",
+    "family_id": "tablet",
+    "structural_kind": "attribute",
+    "designer_intended_role": "ordinary_candidate",
+    "semantic_scenario_id": "tablet-i0-a0"
+  },
+  {
+    "source_id": "LC01-tablet-i0-a1",
+    "source_text": "那台平板电脑含有二百毫克药物。",
+    "source_sha256": "2be5b341b3e014b54e3fe7948e9c1e2151c28413f894f26bd5f73e47d7697637",
+    "family_id": "tablet",
+    "structural_kind": "attribute",
+    "designer_intended_role": "atypical_candidate",
+    "semantic_scenario_id": "tablet-i0-a1"
+  },
+  {
+    "source_id": "LC01-tablet-i0-a1-NUM-Arabic_digits",
+    "source_text": "那台平板电脑含有200毫克药物。",
+    "source_sha256": "7c11df599841bde91cce34f8d7337272168ccb007fa171e9019b0596596e181e",
+    "original_source_id": "LC01-tablet-i0-a1",
+    "numeral_form": "Arabic_digits",
+    "family_id": "tablet",
+    "structural_kind": "attribute",
+    "designer_intended_role": "atypical_candidate",
+    "semantic_scenario_id": "tablet-i0-a1",
+    "derivation": "Programmatic numeral-form variant of a constructed source; no new human source qualification implied."
+  },
+  {
+    "source_id": "LC01-tablet-i0-a1-NUM-Chinese_words",
+    "source_text": "那台平板电脑含有二百毫克药物。",
+    "source_sha256": "2be5b341b3e014b54e3fe7948e9c1e2151c28413f894f26bd5f73e47d7697637",
+    "original_source_id": "LC01-tablet-i0-a1",
+    "numeral_form": "Chinese_words",
+    "family_id": "tablet",
+    "structural_kind": "attribute",
+    "designer_intended_role": "atypical_candidate",
+    "semantic_scenario_id": "tablet-i0-a1",
+    "derivation": "Programmatic numeral-form variant of a constructed source; no new human source qualification implied."
+  },
+  {
+    "source_id": "LC01-tablet-i1-a0",
+    "source_text": "那片药片配有一块触摸屏。",
+    "source_sha256": "22cf8c6a3565d965bbc3c2f357a09ae38ea2ea2fa8a30bb987293f351c16c4ea",
+    "family_id": "tablet",
+    "structural_kind": "attribute",
+    "designer_intended_role": "atypical_candidate",
+    "semantic_scenario_id": "tablet-i1-a0"
+  },
+  {
+    "source_id": "LC01-tablet-i1-a1",
+    "source_text": "那片药片含有二百毫克药物。",
+    "source_sha256": "e94c1f258bad7a69e406ddb863e91c1fcf0fb33424be10c0c5189221257f2890",
+    "family_id": "tablet",
+    "structural_kind": "attribute",
+    "designer_intended_role": "ordinary_candidate",
+    "semantic_scenario_id": "tablet-i1-a1"
+  },
+  {
+    "source_id": "LC01-tablet-i1-a1-NUM-Arabic_digits",
+    "source_text": "那片药片含有200毫克药物。",
+    "source_sha256": "e0db3905154fdb30531b4fc818cb26bd72dbec69f1385807f8be25f53fa00d31",
+    "original_source_id": "LC01-tablet-i1-a1",
+    "numeral_form": "Arabic_digits",
+    "family_id": "tablet",
+    "structural_kind": "attribute",
+    "designer_intended_role": "ordinary_candidate",
+    "semantic_scenario_id": "tablet-i1-a1",
+    "derivation": "Programmatic numeral-form variant of a constructed source; no new human source qualification implied."
+  },
+  {
+    "source_id": "LC01-tablet-i1-a1-NUM-Chinese_words",
+    "source_text": "那片药片含有二百毫克药物。",
+    "source_sha256": "e94c1f258bad7a69e406ddb863e91c1fcf0fb33424be10c0c5189221257f2890",
+    "original_source_id": "LC01-tablet-i1-a1",
+    "numeral_form": "Chinese_words",
+    "family_id": "tablet",
+    "structural_kind": "attribute",
+    "designer_intended_role": "ordinary_candidate",
+    "semantic_scenario_id": "tablet-i1-a1",
+    "derivation": "Programmatic numeral-form variant of a constructed source; no new human source qualification implied."
+  }
+]

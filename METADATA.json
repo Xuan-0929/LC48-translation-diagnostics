@@ -1,0 +1,23 @@
+{
+  "title": "LC48 machine-generation corpus: original, four-arm and numeral-form execution records",
+  "creator_byline": "Ethan Wang",
+  "version": "v0.1.0",
+  "date": "2026-10-16",
+  "status": "public_release",
+  "identifier": "https://github.com/Xuan-0929/LC48-translation-diagnostics/tree/v0.1.0",
+  "repository": "https://github.com/Xuan-0929/LC48-translation-diagnostics",
+  "code_license": "MIT",
+  "data_license": "CC-BY-4.0",
+  "public_release_authorized": true,
+  "semantic_labels_included": false,
+  "primary_fidelity_results_reproduced_by_this_package": false,
+  "human_data_access_route": "not_established_separate_from_this_release",
+  "files_language": "zh/en",
+  "data_format": "UTF-8 JSON and JSONL",
+  "code_runtime": "Python3 standard library; optional local transformers4.51.3 tokenizer check",
+  "models": [
+    "Qwen/Qwen3-8B",
+    "mistralai/Mistral-7B-Instruct-v0.3"
+  ],
+  "coverage_rows": 568
+}

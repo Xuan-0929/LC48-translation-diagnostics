@@ -1,0 +1,10 @@
+{
+  "all568_native_prompt_texts_input_ids_and_two_output_decodes_match": true,
+  "rows_by_model": {
+    "Qwen/Qwen3-8B": 284,
+    "mistralai/Mistral-7B-Instruct-v0.3": 284
+  },
+  "used_local_assets_only": true,
+  "GPU_or_generation_performed": false,
+  "not_a_semantic_grade_validation": true
+}

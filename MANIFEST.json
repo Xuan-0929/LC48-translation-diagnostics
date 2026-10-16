@@ -1,0 +1,87 @@
+{
+  "schema": "LC48_machine_generation568_public_v0.1.0",
+  "files": {
+    "CITATION.cff": {
+      "bytes": 649,
+      "sha256": "eb73deebea96157570bf8bb1770a0424568766e3ed9797de08b0c990b195d072"
+    },
+    "CITATION_STATUS.md": {
+      "bytes": 493,
+      "sha256": "624b4e1d8676802859ff2860f45ced195e67548bf01902e43040b303a8a5dcb5"
+    },
+    "DATA_DICTIONARY.md": {
+      "bytes": 1739,
+      "sha256": "7678ba9f3c2988156b16c63124b6f5de9cf514f456f3324385d470732171c1ee"
+    },
+    "LICENSE-CC-BY-4.0.txt": {
+      "bytes": 18658,
+      "sha256": "f5b745ef98087f531e719ee8ca6a96809444573ecc7173c6fa68eaad39b3cc3f"
+    },
+    "LICENSE-MIT.txt": {
+      "bytes": 1067,
+      "sha256": "d5ddbca6d673d5f02b30ce0e576db65c36d46ef9f2f7bd78f84558452055a068"
+    },
+    "LICENSE.md": {
+      "bytes": 1031,
+      "sha256": "c90ed2f8807c3ce46f21f020b2ac5fa1b16938bf4ab10327cd24cc025fcf6775"
+    },
+    "LICENSE_PROPOSAL.md": {
+      "bytes": 601,
+      "sha256": "c3c30e39d59df6e691d947bf4a05446cbd3dee11fa34f1ae232ba360ab49fcbf"
+    },
+    "METADATA.json": {
+      "bytes": 921,
+      "sha256": "438be4b8b36e6beff567af64fb445d6ccab1c41564a4f5164dae8140ca8aa6f4"
+    },
+    "PROVENANCE.json": {
+      "bytes": 2969,
+      "sha256": "e5138f93f55c4d1f5087b43dc4e393f7bfc0c35ff37441e46e1e3983868d4ce2"
+    },
+    "README.md": {
+      "bytes": 4880,
+      "sha256": "9dae19c3ac131a8aaaf421754c422059f1b79d8619afcd8a55fa9b00c9583e92"
+    },
+    "code/original_inference_runner_v01.py": {
+      "bytes": 13696,
+      "sha256": "fc6703287f3812c823d23af6318be5ae7a012e252bae96312e98fa592aa18111"
+    },
+    "code/replay_machine_records.py": {
+      "bytes": 4927,
+      "sha256": "9f08577b9fd52f6ef8b3414c05a64eb8c6d1d66f04ff59c31288eaea2dbf8a97"
+    },
+    "code/verify_native_tokenizers.py": {
+      "bytes": 2085,
+      "sha256": "e241121f4777a901e9f9047831e950101ec5c325eb478217117cb92e82dd67a7"
+    },
+    "data/generation_recipe.json": {
+      "bytes": 689,
+      "sha256": "8d0ab315c5b971a6bb53a9e6e28b0261ffd91ec7069bbeb3b3732cfa8e4d69a1"
+    },
+    "data/generations568.jsonl": {
+      "bytes": 1734542,
+      "sha256": "b949b3f46b9493a4f55930409d9dacffc71ac1f1fb089b4169ecd9e8febdae73"
+    },
+    "data/model_assets.json": {
+      "bytes": 3107,
+      "sha256": "b8c777df5b1a7313e458e1cb17c8a81284b9b09357eb5e069c97038c432db938"
+    },
+    "data/sources60.json": {
+      "bytes": 24997,
+      "sha256": "8cbc76b126dd6eda125dc5151856d4956b3b89ca2866759767d547f69eb272fc"
+    },
+    "expected/export_scope_check.json": {
+      "bytes": 334,
+      "sha256": "5b7e5277ea6ec507c38d1ea90f03cf4ff9ed73b252b1595f7f8a4881671ad734"
+    },
+    "expected/native_tokenizer_check.json": {
+      "bytes": 295,
+      "sha256": "eb66555ab82b50d1a1609e58d514456c18aad067cf726f8722fa92bb5be38535"
+    },
+    "expected/replay_summary.json": {
+      "bytes": 3527,
+      "sha256": "9a7b70d5a0c53b1ed36c4bc696bf7c38ff62106bc59f66a4dad65b21e15bfe32"
+    }
+  },
+  "public_release_authorized": true,
+  "licence_selected": true
+}

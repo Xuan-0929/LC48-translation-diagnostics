@@ -1,0 +1,154 @@
+{
+  "machine_execution_rows": 568,
+  "source_identifiers": 60,
+  "distinct_source_strings": 54,
+  "unique_model_native_input_sequences": 444,
+  "distinct_exact_source_English_contents": 259,
+  "stage_rows": {
+    "factorial256": 256,
+    "numeral120": 120,
+    "original192": 192
+  },
+  "baseline64_exact_native_input_English_and_token_anchors": 64,
+  "numeral_word60_exact_native_input_English_and_token_anchors": 60,
+  "EOS_rows": 568,
+  "empty_rows": 0,
+  "possible_truncation_rows": 0,
+  "conditions": [
+    {
+      "stage": "factorial256",
+      "model": "Qwen/Qwen3-8B",
+      "condition": "I0B0",
+      "rows": 32
+    },
+    {
+      "stage": "factorial256",
+      "model": "Qwen/Qwen3-8B",
+      "condition": "I0B1",
+      "rows": 32
+    },
+    {
+      "stage": "factorial256",
+      "model": "Qwen/Qwen3-8B",
+      "condition": "I1B0",
+      "rows": 32
+    },
+    {
+      "stage": "factorial256",
+      "model": "Qwen/Qwen3-8B",
+      "condition": "I1B1",
+      "rows": 32
+    },
+    {
+      "stage": "factorial256",
+      "model": "mistralai/Mistral-7B-Instruct-v0.3",
+      "condition": "I0B0",
+      "rows": 32
+    },
+    {
+      "stage": "factorial256",
+      "model": "mistralai/Mistral-7B-Instruct-v0.3",
+      "condition": "I0B1",
+      "rows": 32
+    },
+    {
+      "stage": "factorial256",
+      "model": "mistralai/Mistral-7B-Instruct-v0.3",
+      "condition": "I1B0",
+      "rows": 32
+    },
+    {
+      "stage": "factorial256",
+      "model": "mistralai/Mistral-7B-Instruct-v0.3",
+      "condition": "I1B1",
+      "rows": 32
+    },
+    {
+      "stage": "numeral120",
+      "model": "Qwen/Qwen3-8B",
+      "condition": "I0B0",
+      "rows": 12
+    },
+    {
+      "stage": "numeral120",
+      "model": "Qwen/Qwen3-8B",
+      "condition": "I0B1",
+      "rows": 12
+    },
+    {
+      "stage": "numeral120",
+      "model": "Qwen/Qwen3-8B",
+      "condition": "I1B0",
+      "rows": 12
+    },
+    {
+      "stage": "numeral120",
+      "model": "Qwen/Qwen3-8B",
+      "condition": "I1B1",
+      "rows": 12
+    },
+    {
+      "stage": "numeral120",
+      "model": "Qwen/Qwen3-8B",
+      "condition": "neutral",
+      "rows": 12
+    },
+    {
+      "stage": "numeral120",
+      "model": "mistralai/Mistral-7B-Instruct-v0.3",
+      "condition": "I0B0",
+      "rows": 12
+    },
+    {
+      "stage": "numeral120",
+      "model": "mistralai/Mistral-7B-Instruct-v0.3",
+      "condition": "I0B1",
+      "rows": 12
+    },
+    {
+      "stage": "numeral120",
+      "model": "mistralai/Mistral-7B-Instruct-v0.3",
+      "condition": "I1B0",
+      "rows": 12
+    },
+    {
+      "stage": "numeral120",
+      "model": "mistralai/Mistral-7B-Instruct-v0.3",
+      "condition": "I1B1",
+      "rows": 12
+    },
+    {
+      "stage": "numeral120",
+      "model": "mistralai/Mistral-7B-Instruct-v0.3",
+      "condition": "neutral",
+      "rows": 12
+    },
+    {
+      "stage": "original192",
+      "model": "Qwen/Qwen3-8B",
+      "condition": "neutral",
+      "rows": 48
+    },
+    {
+      "stage": "original192",
+      "model": "Qwen/Qwen3-8B",
+      "condition": "source_faithful",
+      "rows": 48
+    },
+    {
+      "stage": "original192",
+      "model": "mistralai/Mistral-7B-Instruct-v0.3",
+      "condition": "neutral",
+      "rows": 48
+    },
+    {
+      "stage": "original192",
+      "model": "mistralai/Mistral-7B-Instruct-v0.3",
+      "condition": "source_faithful",
+      "rows": 48
+    }
+  ],
+  "semantic_or_human_grades_included": 0,
+  "does_not_replay_primary_semantic_results": true,
+  "GPU_regeneration_performed": false
+}

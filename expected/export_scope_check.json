@@ -1,0 +1,9 @@
+{
+  "rows_field_allowlist_exact": 568,
+  "all_source_record_hashes_reopened": 568,
+  "personal_path_or_named_credential_pattern_hits": 0,
+  "human_review_or_financial_keys_in_exported_data": 0,
+  "model_assets_included": false,
+  "privacy_or_rights_or_ethics_clearance": false,
+  "original_decoded_text_and_tokens_not_edited": true
+}

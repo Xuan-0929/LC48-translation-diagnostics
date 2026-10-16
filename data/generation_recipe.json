@@ -1,0 +1,23 @@
+{
+  "runtime": {
+    "torch": "2.5.1+cu124",
+    "transformers": "4.51.3",
+    "cuda": "12.4"
+  },
+  "seed": 20261008,
+  "dtype": "torch.bfloat16",
+  "attention_implementation": "sdpa",
+  "flash_sdp": false,
+  "memory_efficient_sdp": false,
+  "cudnn_sdp": false,
+  "math_sdp": true,
+  "TF32_matmul": false,
+  "deterministic_algorithms": true,
+  "beam_count": 1,
+  "sampling": false,
+  "max_new_tokens": 128,
+  "repetition_penalty": 1.0,
+  "optimizer_updates": 0,
+  "Qwen_enable_thinking": false,
+  "scope": "Reference recipe of the retained executed generation code, not a new execution or a guarantee of cross-device bit identity. Model assets and tokenizer files are not distributed."
+}

@@ -1,0 +1,87 @@
+{
+  "created_utc": "2026-10-16T04:58:38.549260+00:00",
+  "byline": "Ethan Wang",
+  "version": "v0.1.0",
+  "input_file_hashes": [
+    {
+      "name": "RESEARCHER_ONLY_all48_candidate_sources_and_proposals_v01.json",
+      "sha256": "c1532827962d037f06d17f768dabc6008ec5092b86938ab41cae6e25f27c643d"
+    },
+    {
+      "name": "RESEARCHER_ONLY_request_mapping.json",
+      "sha256": "9b037a22ad7ede0ca5f401f3c99a0b805aa592879885d81f2dd6300faeed4326"
+    },
+    {
+      "name": "raw256_requests.json",
+      "sha256": "b2056cf100c2d7434d0da4e2e565c59f63db68622527aef8abb935238b210bde"
+    },
+    {
+      "name": "cross_condition320_generations.json",
+      "sha256": "8ad9ea84bd68512a312e63e5f9e1413a11806019e7a303323fee74d956e42d83"
+    },
+    {
+      "name": "requests120.json",
+      "sha256": "52cbdbbcf919854de55551c708fea343696b66abb085f1e87d1c2b2169e0e1ef"
+    },
+    {
+      "name": "actual_outputs120.json",
+      "sha256": "ff64d7dd3db832f9623d0659a85a8ca865cb62404f79e0769fd9b932b0ff5cdf"
+    },
+    {
+      "name": "pinned_model_assets.json",
+      "sha256": "bc57f9a1989292e3217b93733130535938456972d7b6f61a270d1714c8854f86"
+    },
+    {
+      "name": "run_LC48_native_inference_v01.py",
+      "sha256": "fc6703287f3812c823d23af6318be5ae7a012e252bae96312e98fa592aa18111"
+    }
+  ],
+  "original_runner_sha256": "fc6703287f3812c823d23af6318be5ae7a012e252bae96312e98fa592aa18111",
+  "data_fields_selected": {
+    "native_request": [
+      "request_id",
+      "model_id",
+      "model_revision",
+      "source_id",
+      "source_sha256",
+      "prompt_condition",
+      "user_text",
+      "rendered_native_prompt",
+      "native_input_ids",
+      "native_request_sha256",
+      "rendered_prompt_sha256"
+    ],
+    "machine_output": [
+      "generation_status",
+      "generation_error",
+      "generated_token_ids",
+      "decoded_with_special_tokens",
+      "translation_text",
+      "translation_sha256",
+      "generated_token_N",
+      "eos_token_ids",
+      "ended_with_EOS",
+      "reached_max_new_tokens",
+      "empty_translation",
+      "truncation_possible",
+      "completed_utc"
+    ]
+  },
+  "excluded_field_groups": [
+    "participant identities/background and answers",
+    "R/A/X/U and all derived semantic grades",
+    "root-error rationales and annotation proposals",
+    "human qualification/consent records",
+    "private absolute paths and remote host/SSH data",
+    "billing/timers/admission receipts",
+    "weights/tokenizer assets"
+  ],
+  "private_origin_index_retained_outside_archive": true,
+  "not_a_full_primary_fidelity_reproduction_package": true,
+  "public_release_authorized": true,
+  "license_selected": true,
+  "repository_or_identifier": "https://github.com/Xuan-0929/LC48-translation-diagnostics",
+  "public_release_prepared_utc": "2026-10-16T07:51:18.118965+00:00",
+  "original_candidate_zip_sha256": "356d4572d76373794736b6b544fd9731ab3aee4ac8f86d10d442bb25d96f1028",
+  "scientific_code_data_expected_bytes_unchanged": true
+}
